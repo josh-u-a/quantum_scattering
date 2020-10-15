@@ -1,5 +1,5 @@
 # quantum_scattering
-Computation (using python an jupyter lab) for automating and animating of quantum particle incident on finite potential in one-dimension. 
+Computation (using python and jupyter lab) for automating and animating of quantum particle incident on finite potential in one-dimension. 
 Relays the transmission and reflection coefficients as well as the probablity of finding the quantum particle within 
 the potential. 
 Also displays the potential-space (or k-space) which indicates both the magnitude (energy) or the velocity and direction 
