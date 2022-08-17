@@ -6,4 +6,4 @@ Also displays the potential-space (or k-space) which indicates both the magnitud
 of the wave packet (or packets upon transmission and reflection). 
 
 
-The theory behind the model is explained in the attached pdf. 
+The theory behind the model is explained in the [attached pdf](https://github.com/josh-u-a/quantum_scattering/blob/master/QuantumScattering.pdf). 
